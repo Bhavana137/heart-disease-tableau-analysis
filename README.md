@@ -1,48 +1,62 @@
-# Heart Disease Data Analysis (Tableau Project)
+# ❤️ Heart Disease Data Analysis using Tableau
+
+🔗 **Project Demo (Video Recording):**  
+https://drive.google.com/file/d/11uqiasmZqot6PjdCWRex4QzDsuRnwkrA/view?usp=drive_link
+
+---
 
 ## 📌 Project Overview
-This project presents a comprehensive data analysis of heart disease using Tableau.
-The objective is to identify key risk factors influencing heart disease through visual analytics.
+
+Heart disease remains one of the leading causes of mortality worldwide. This project focuses on analyzing heart disease data using Tableau to identify major risk factors and patterns affecting cardiovascular health.
+
+The dashboard transforms raw healthcare data into meaningful and interactive visual insights to support preventive healthcare decision-making.
 
 ---
 
-## 🎯 Objectives
-- Analyze heart disease distribution across different age groups
-- Study the impact of BMI on heart disease
-- Examine lifestyle factors like smoking, alcohol consumption, and physical activity
-- Identify the relationship between diabetes and stroke history
+## 🎯 Purpose of the Project
+
+The purpose of this project is to analyze heart disease data using Tableau to identify key risk factors such as age, BMI, lifestyle habits, and medical conditions. The project converts raw data into interactive dashboards for better understanding and analysis. It highlights high-risk groups and supports data-driven healthcare awareness. The goal is to demonstrate how visualization tools can help in preventive healthcare strategies.
 
 ---
 
-## 🛠 Tools Used
-- Tableau Desktop Public Edition
-- GitHub
+## 📊 Key Features
+
+- Age-wise heart disease analysis  
+- BMI distribution visualization  
+- Gender comparison  
+- Smoking and alcohol impact analysis  
+- Physical activity assessment  
+- Diabetes and stroke relationship analysis  
+- Interactive dashboard with filters  
+- Structured Story board explanation  
 
 ---
 
-## 📊 Key Insights
-- Heart disease increases significantly after age 50.
-- Higher BMI levels correlate with higher heart disease risk.
-- Smoking and diabetes are strong contributing factors.
-- Poor general health increases cardiovascular risk.
+## 📈 Key Insights
+
+- Heart disease risk increases significantly after age 50  
+- Higher BMI levels show greater heart disease occurrence  
+- Smoking and physical inactivity increase risk  
+- Diabetes and stroke history strongly correlate with heart disease  
+- Poor general health increases cardiovascular risk  
 
 ---
 
-## 📂 Project Files
-- Heart_Disease_Data_Analysis.twbx
-- README.md
+## 🛠 Tools & Technologies Used
+
+- Tableau Desktop (Public Edition)  
+- CSV Dataset  
+- Data Cleaning & Preprocessing  
+- Calculated Fields & Filters  
+- GitHub (Documentation & Version Control)  
 
 ---
 
-## 🚀 How to View
-1. Download the `.twbx` file.
-2. Open in Tableau Desktop Public Edition.
-3. Explore sheets, dashboard, and story.
+## 🏗 Solution Architecture
+
+Raw Dataset → Data Cleaning → Tableau Processing →  
+Interactive Dashboards → Story Visualization → Insights & Decision Support  
 
 ---
 
-## 👩‍💻 Author
-Mukkamalla Venkata Bhavana
-Sri Venkateswara College of Engineering,Tirupati.
-2026(4th year)
-
+## 📂 Project Structure
