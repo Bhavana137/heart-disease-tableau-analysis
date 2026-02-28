@@ -60,3 +60,27 @@ Interactive Dashboards → Story Visualization → Insights & Decision Support
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates how healthcare data can be transformed into meaningful visual insights using Tableau. The dashboard helps identify major heart disease risk factors and supports preventive healthcare awareness through data-driven analysis.
+
+---
+
+## 🚀 Future Scope
+
+- Integration of real-time healthcare data  
+- Implementation of machine learning for risk prediction  
+- Web-based dashboard deployment  
+- Advanced trend forecasting  
+- Inclusion of additional health indicators  
+
+---
+
+## 👩‍💻 Author
+Mukkamalla Venkata Bhavana
+Internship Project 
+2026
+
